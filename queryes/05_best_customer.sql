@@ -7,8 +7,8 @@ JOIN details ON orders.id = order_id
 Group by orders.id, name
 
 ORDER BY totalOrderQuantity DESC
-
 ;
+
 
 
 
