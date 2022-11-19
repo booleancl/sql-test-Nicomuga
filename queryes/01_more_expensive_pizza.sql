@@ -1,3 +1,6 @@
 \c pizzas_factory
 
-SELECT value FROM prices ORDER BY value DESC LIMIT 1
+SELECT name, value 
+FROM prices
+JOIN pizzas ON pizzas.id = pizza_id 
+ORDER BY value DESC LIMIT 1

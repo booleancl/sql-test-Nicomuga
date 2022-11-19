@@ -25,25 +25,31 @@ Respalde su respuesta con un archivo sql por cada pregunta.
 
 > 1. ¿Cuál es el valor de la pizza más cara?
 
-Respuesta: 
+Respuesta: La pizza Deluxe con 11600
 
 > 2. ¿Cuál es el nombre de la pizza más vendida(unidades total)?
 
-Respuesta:
+Respuesta: La Deluxe es la mas vendida con 121 unidades
 
 > 3. ¿Cuál es el nombre de la pizza más vendida(ingresos totales)?
 
-Respuesta:
+Respuesta: La Deluxe con $1.057.600
 
 > 4. Cuál es el tamaño de pizza más vendido?
 
-Respuesta:
+Respuesta: La familiar con 173 unidades en total
 
 > 5. ¿Cuál es el cliente con la compra más grande?
 
-Respuesta
+Respuesta 
+
+Existen 2 respuestas a esta pregunta.
+
+En lo que refiere a los clientes que han pedido mayor cantidad de pizza en una sola orden. Hay 3 clientes con los mayores pedidos de pizzas y han realizado ordenes por 13 pizzas Bernardo Reichel, Cary Paucek y Anglea Welch.
+
+En lo que refiere a los clientes que han realizados las ordenes de pizza mas costosas 3 de ellos se reparten el primer lugar con $34800. Ann Powlowski, Doria Balistreri y Francisca Kuhic.
 
 > 6. ¿Cuánto fueron los ingresos totales de la pizzería?
 
-Respuesta
+Respuesta Los ingresos totales fueron de  $2.044.400.
 
